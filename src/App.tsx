@@ -46,7 +46,7 @@ function App() {
                   <li className="nav-item"><a className="nav-link" href="">Report 2</a></li>
                 </ul>
               </li>
-              <li className="nav-item"><a className="nav-link" href="#">Analytics AANGEPAST</a></li>
+              <li className="nav-item"><a className="nav-link" href="#">Analytics AANGEPAST vanuit c:\temp</a></li>
               <li className="nav-item"><a className="nav-link" href="#">Export</a></li>
               <li className="nav-item"><a className="nav-link" href="#">Snippets</a></li>
               <li className="nav-item"><a className="nav-link" href="#">Flexbox</a></li>
