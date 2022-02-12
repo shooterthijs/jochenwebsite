@@ -10,7 +10,7 @@ function App() {
           <button type="button" className="navbar-toggler mr-2 " data-toggle="offcanvas" title="Toggle responsive left sidebar">
             <span className="navbar-toggler-icon"></span>
           </button>
-          <a className="navbar-brand" href="#" title="Free Bootstrap 4 Admin Template">Admin Template</a>
+          <a className="navbar-brand" href="#" title="Jochen website">Admin Template</a>
         </div>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsingNavbar">
           <span className="navbar-toggler-icon"></span>
@@ -151,12 +151,12 @@ function App() {
             <div className="row my-4">
               <div className="col-lg-3 col-md-4">
                 <div className="card">
-                  <img className="card-img-top img-fluid" src="//placehold.it/740x180/bbb/fff?text=..." alt="Card image cap"/>
-                    <div className="card-body">
-                      <h4 className="card-title">Layouts</h4>
-                      <p className="card-text">Flexbox provides simpler, more flexible layout options like vertical centering.</p>
-                      <a href="#" className="btn btn-primary">Button</a>
-                    </div>
+                  <img className="card-img-top img-fluid" src="//placehold.it/740x180/bbb/fff?text=..." alt="Card image cap" />
+                  <div className="card-body">
+                    <h4 className="card-title">Layouts</h4>
+                    <p className="card-text">Flexbox provides simpler, more flexible layout options like vertical centering.</p>
+                    <a href="#" className="btn btn-primary">Button</a>
+                  </div>
                 </div>
                 <div className="card card-inverse bg-inverse mt-3">
                   <div className="card-body">
@@ -294,11 +294,11 @@ function App() {
 
             <div className="card-columns mb-3">
               <div className="card">
-                <img className="card-img-top img-fluid" src="//placehold.it/600x200/444/fff?text=..." alt="Card image cap/"/>
-                  <div className="card-body">
-                    <h4 className="card-title">New XL Grid Tier</h4>
-                    <p className="card-text">With screens getting smaller, Bootstrap 4 introduces a new grid breakpoint with the col-xl-* classes. This extra tier extends the media query range all the way down to 576 px. Eventhough the new XL tier would make one think it’s been added to support extra large screens, it’s actually the opposite.</p>
-                  </div>
+                <img className="card-img-top img-fluid" src="//placehold.it/600x200/444/fff?text=..." alt="Card image cap/" />
+                <div className="card-body">
+                  <h4 className="card-title">New XL Grid Tier</h4>
+                  <p className="card-text">With screens getting smaller, Bootstrap 4 introduces a new grid breakpoint with the col-xl-* classes. This extra tier extends the media query range all the way down to 576 px. Eventhough the new XL tier would make one think it’s been added to support extra large screens, it’s actually the opposite.</p>
+                </div>
               </div>
               <div className="card card-body">
                 <blockquote className="card-blockquote">
@@ -311,12 +311,12 @@ function App() {
                 </blockquote>
               </div>
               <div className="card">
-                <img className="card-img-top img-fluid" src="//placehold.it/600x200/bbb/fff?text=..." alt="Card image cap"/>
-                  <div className="card-body">
-                    <h4 className="card-title">Card title</h4>
-                    <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
-                  </div>
+                <img className="card-img-top img-fluid" src="//placehold.it/600x200/bbb/fff?text=..." alt="Card image cap" />
+                <div className="card-body">
+                  <h4 className="card-title">Card title</h4>
+                  <p className="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                  <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
+                </div>
               </div>
               <div className="card card-body card-inverse card-primary text-center">
                 <blockquote className="card-blockquote">
@@ -334,7 +334,7 @@ function App() {
                 <p className="card-text"><small className="text-muted">Last updated 5 mins ago</small></p>
               </div>
               <div className="card">
-                <img className="card-img img-fluid" src="//placehold.it/600x200/777/fff?text=..." alt="Card image"/>
+                <img className="card-img img-fluid" src="//placehold.it/600x200/777/fff?text=..." alt="Card image" />
               </div>
               <div className="card card-body text-right">
                 <blockquote className="card-blockquote">
